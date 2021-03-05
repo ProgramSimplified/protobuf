@@ -1,6 +1,6 @@
 # Protobuf Example
 
-The demo used the most popular protobuf npm package `protobufjs` as protobufs format explain.
+The demo used the most popular protobuf npm package `protobufjs` as protobufs format specification.
 
 ## Installation Steps
 
